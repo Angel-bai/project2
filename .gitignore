@@ -1,3 +1,5 @@
 ll_env/
 *.pyc/
 *.sqlite3
+.idea
+.idea
